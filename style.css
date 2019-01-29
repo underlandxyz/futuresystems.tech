@@ -170,11 +170,7 @@
 }
 
 #about img {
-  height: 5em;
-}
-
-#about div:last-child img {
-  border: 1px solid var(--navy)
+  height: 7em;
 }
 
 #about p {
